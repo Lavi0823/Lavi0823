@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on E-commerce project.<br>I'm looking to collaborate on front-end development related content.<br>I'm currently learning backend.<br>Ask me about Web development.
+I'm currently working on Power bi , Sql, Python.<br>I'm looking to collaborate on data Analyst related content.<br>I'm currently learning data science.<br>Ask me about data analyst.
 
 
 ## 🌐 Socials:
